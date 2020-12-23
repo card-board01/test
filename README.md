@@ -16,7 +16,13 @@
 git push -f origin master
 ```
 
+```console
+git push --force origin master
+```
+
 は決してやってはいけません。死にます。(実際死にました)
+
+下手したら自殺沙汰になりかねません。
 
 <br>
 
